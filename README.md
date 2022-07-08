@@ -13,3 +13,7 @@ There are 2 gaming modes -->
 
 All the details of the modes are given in the rules_of_game.py file.
 It is in the option three of the main menu .... If you want to view the rules then press 3 as your choice
+
+All you need to do is just run the main_menu.py file on your machine and enjoy the game
+
+Thank You ... Hope you'll like it
